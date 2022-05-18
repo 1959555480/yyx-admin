@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import HelloWorld from "./components/HelloWorld.vue"
 
 export default {
   name: "App",
@@ -13,10 +13,10 @@ export default {
   },
   methods: {
     s() {
-      console.log("33");
+      console.log("33")
     }
   }
-};
+}
 </script>
 
 <style>
