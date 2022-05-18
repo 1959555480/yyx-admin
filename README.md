@@ -1,1 +1,1 @@
-# yyx-admin
+# https://github.com/1959555480/yyx-vue3-template
