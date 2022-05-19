@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     s() {
-      console.log('343')
+      console.log('3443')
     }
   }
 }
